@@ -71,6 +71,9 @@ Vision–Language Models for Medical Imaging
 | Vision-Language Foundation Model for 3D Medical Imaging | npj AI (Nature) | 2025 | [Paper](https://www.nature.com/articles/s44387-025-00015-9) |
 | Large Language Model for Medical Images: A Survey of Taxonomy | Big Data Mining and Analytics | 2025 | [Paper](https://doi.org/10.26599/BDMA.2024.9020090) |
 | Vision-Language Foundation Models for Medical Imaging (2022–2024) | PMC/NIH | 2024 | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12411343/) |
+| Visual-Language Foundation Models in Medical Imaging: Systematic Review & Meta-Analysis | Computer Methods & Programs in Biomedicine (Elsevier) | 2025 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260725002871) |
+| MG-3D: Multi-Grained Knowledge-Enhanced 3D Medical Vision-Language Pre-Training | **IEEE TMI** | 2024 | [Paper](https://arxiv.org/abs/2412.05876) |
+| LViT: Language Meets Vision Transformer in Medical Image Segmentation | **IEEE TMI** | 2023 | [Paper](https://ieeexplore.ieee.org/document/10172039/) |
 
 ---
 
