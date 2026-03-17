@@ -1,6 +1,6 @@
 
-Recent Progress in Vision–Language Models for Medical Imaging: A Comprehensive Survey
 
+# Recent Progress in Vision–Language Models for Medical Imaging: A Comprehensive Survey
 
 <div align="center">
 
