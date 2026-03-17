@@ -23,7 +23,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Survey Papers](#-survey-papers)
 - [Medical VQA](#-medical-vqa)
@@ -37,30 +37,10 @@
 
 ---
 
-## 🗺️ Taxonomy Overview
-
-```
-Vision–Language Models for Medical Imaging
-│
-├── 1. Survey & Review Papers
-├── 2. Medical VQA
-│   ├── 2.1 Closed-ended (Yes/No, Multiple Choice)
-│   ├── 2.2 Open-ended (Generative)
-│   ├── 2.3 Region/Grounded VQA
-│   └── 2.4 Hallucination & Robustness
-├── 3. Report Generation
-│   ├── 3.1 Radiology (X-ray, CT, MRI)
-│   └── 3.2 Pathology
-├── 4. Foundation Models
-│   ├── 4.1 Pre-training Strategies
-│   ├── 4.2 Fine-tuning & PEFT
-│   └── 4.3 Zero/Few-shot
-└── 5. Datasets & Benchmarks
-```
 
 ---
 
-## 📄 Survey Papers
+##  Survey Papers
 
 | Title | Venue | Year | Links |
 |-------|-------|------|-------|
@@ -77,7 +57,7 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 🧠 Medical VQA
+##  Medical VQA
 
 ### 2.1 Closed-Ended VQA (Classification-style)
 
@@ -116,7 +96,7 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 📝 Report Generation
+## Report Generation
 
 | Title | Venue | Year | Modality | Links |
 |-------|-------|------|----------|-------|
@@ -127,7 +107,7 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 🏗️ Foundation Models
+##  Foundation Models
 
 ### Pre-training Strategies
 
@@ -155,7 +135,7 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 📊 Datasets & Benchmarks
+##  Datasets & Benchmarks
 
 | Dataset | Year | Size | Task | Modality | Link |
 |---------|------|------|------|----------|------|
@@ -174,7 +154,7 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 📖 Citation
+##  Citation
 
 If you find this repository useful, please cite:
 
