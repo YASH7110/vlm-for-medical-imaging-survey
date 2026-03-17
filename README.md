@@ -41,20 +41,18 @@
 ---
 
 ##  Survey Papers
+## 📄 Survey Papers
 
-| Title | Venue | Year | Links |
-|-------|-------|------|-------|
-| Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review | Frontiers in AI | 2024 | [Paper](https://doi.org/10.3389/frai.2024.1430984) |
-| A Survey of Medical Vision-and-Language Applications and Their Techniques | arXiv:2411.12195 | 2024 | [Paper](https://arxiv.org/abs/2411.12195) |
-| Vision-Language Models in Medicine | arXiv:2503.01863 | 2025 | [Paper](https://arxiv.org/abs/2503.01863) |
-| Vision-Language Models in Medical Image Analysis: From Simple Fusion to General Large Models | Information Fusion (Elsevier Q1) | 2025 | [Paper](https://doi.org/10.1016/j.inffus.2025.102995) |
-| Vision-Language Foundation Model for 3D Medical Imaging | npj AI (Nature) | 2025 | [Paper](https://www.nature.com/articles/s44387-025-00015-9) |
-| Large Language Model for Medical Images: A Survey of Taxonomy | Big Data Mining and Analytics | 2025 | [Paper](https://doi.org/10.26599/BDMA.2024.9020090) |
-| Vision-Language Foundation Models for Medical Imaging (2022–2024) | PMC/NIH | 2024 | [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12411343/) |
-| Visual-Language Foundation Models in Medical Imaging: Systematic Review & Meta-Analysis | Computer Methods & Programs in Biomedicine (Elsevier) | 2025 | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169260725002871) |
-| MG-3D: Multi-Grained Knowledge-Enhanced 3D Medical Vision-Language Pre-Training | **IEEE TMI** | 2024 | [Paper](https://arxiv.org/abs/2412.05876) |
-| LViT: Language Meets Vision Transformer in Medical Image Segmentation | **IEEE TMI** | 2023 | [Paper](https://ieeexplore.ieee.org/document/10172039/) |
-
+| Title | Venue | Year |
+|-------|-------|------|
+| [Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review](https://doi.org/10.3389/frai.2024.1430984) | Frontiers in AI | 2024 |
+| [A Survey of Medical Vision-and-Language Applications and Their Techniques](https://arxiv.org/abs/2411.12195) | arXiv:2411.12195 | 2024 |
+| [Vision-Language Models in Medicine](https://arxiv.org/abs/2503.01863) | arXiv:2503.01863 | 2025 |
+| [Vision-Language Models in Medical Image Analysis: From Simple Fusion to General Large Models](https://doi.org/10.1016/j.inffus.2025.102995) | Information Fusion (Elsevier Q1) | 2025 |
+| [Vision-Language Foundation Model for 3D Medical Imaging](https://www.nature.com/articles/s44387-025-00015-9) | npj AI (Nature) | 2025 |
+| [Large Language Model for Medical Images: A Survey of Taxonomy](https://doi.org/10.26599/BDMA.2024.9020090) | Big Data Mining and Analytics | 2025 |
+| [Vision-Language Foundation Models for Medical Imaging (2022–2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12411343/) | PMC/NIH | 2024 |
+| [LViT: Language Meets Vision Transformer in Medical Image Segmentation](https://arxiv.org/abs/2206.14718) | IEEE Transactions on Medical Imaging, Vol.43(1) | 2024 |
 ---
 
 ##  Medical VQA
