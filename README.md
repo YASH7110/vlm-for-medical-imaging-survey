@@ -1,6 +1,6 @@
 
+Recent Progress in Vision–Language Models for Medical Imaging: A Comprehensive Survey
 
-# Recent Progress in Vision–Language Models for Medical Imaging: A Comprehensive Survey
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Medical-Imaging-Survey)
 - [Evaluation Metrics](#-evaluation-metrics)
 - [Open Challenges](#-open-challenges)
 - [Citation](#-citation)
-- [Contributing](#-contributing)
+
 
 ---
 
