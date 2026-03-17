@@ -170,41 +170,6 @@ Vision–Language Models for Medical Imaging
 
 ---
 
-## 📏 Evaluation Metrics
-
-| Metric | Task | Description |
-|--------|------|-------------|
-| **BLEU** | Report Gen / VQA | N-gram overlap between generated and reference text |
-| **ROUGE-L** | Report Gen | Longest common subsequence recall |
-| **CIDEr** | Report Gen | Consensus-based image description evaluation |
-| **Accuracy** | Closed VQA | Exact match accuracy for Yes/No and MCQ |
-| **F1 Score** | Med-VQA | Harmonic mean of Precision & Recall (preferred in clinical VQA) |
-| **Precision / Recall** | Diagnosis VQA | Per-pathology clinical accuracy |
-| **AUC-ROC** | Classification | Area under ROC curve |
-| **METEOR** | Report Gen | Alignment-based metric considering synonyms |
-| **RadGraph F1** | Radiology Reports | Clinical entity-based evaluation |
-
----
-
-## 🔓 Open Challenges
-
-1. **Hallucination** — Models generate plausible but clinically incorrect answers
-2. **Data Scarcity** — Limited annotated medical VQA datasets
-3. **Generalization** — Models fail to generalize across imaging modalities
-4. **Interpretability** — Black-box predictions are not clinically trustworthy
-5. **Privacy & Ethics** — Patient data compliance (HIPAA, GDPR)
-6. **3D Understanding** — Most VLMs are designed for 2D images; 3D MRI/CT remains challenging
-7. **Evaluation Gap** — Standard NLP metrics (BLEU, ROUGE) poorly reflect clinical quality
-
----
-
-## 📈 Trend Summary (2023–2025)
-
-```
-2023  →  Foundation models (LLaVA-Med, Med-Flamingo, BioMedCLIP) established
-2024  →  Instruction tuning, PEFT, grounded VQA, hallucination research
-2025  →  Agentic reasoning, 3D imaging VLMs, large-scale benchmarks (HEAL-MedVQA)
-```
 
 ---
 
@@ -222,31 +187,6 @@ If you find this repository useful, please cite:
 }
 ```
 
-### Key Papers to Cite
-
-```bibtex
-@article{hartsock2024vlm,
-  title   = {Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review},
-  author  = {Hartsock, Iryna and Rasool, Ghulam},
-  journal = {Frontiers in Artificial Intelligence},
-  volume  = {7},
-  year    = {2024},
-  doi     = {10.3389/frai.2024.1430984}
-}
-
-@article{guo2024prompting,
-  title   = {Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering},
-  author  = {Guo, Danfeng and Terzopoulos, Demetri},
-  journal = {arXiv preprint arXiv:2407.21368},
-  year    = {2024}
-}
-
-@inproceedings{neurips2024brainmd,
-  title     = {Enhancing Vision-Language Models for Medical Imaging},
-  booktitle = {NeurIPS 2024 Datasets and Benchmarks Track},
-  year      = {2024}
-}
-```
 
 ---
 
