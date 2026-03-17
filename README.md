@@ -105,6 +105,7 @@ Vision–Language Models for Medical Imaging
 | HEAL-MedVQA: Hallucination Evaluation via Localization | arXiv:2505.00744 | 2025 | Radiology | [Paper](https://arxiv.org/abs/2505.00744) |
 | Localizing Before Answering: LobA Framework | arXiv | 2025 | CXR/Pathology | [Paper](https://arxiv.org/abs/2505.00744) |
 | Dual Modality Prompt Learning for VQA in Robotic Surgery | Visual Computing | 2024 | Surgical | [Paper](https://doi.org/10.1007/s42979-024-02705-4) |
+| MIMO: Medical VLM with Visual Referring Multimodal Input & Pixel Grounding Output | **CVPR** | 2025 | Multi-organ | [Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_MIMO_A_Medical_Vision_Language_Model_with_Visual_Referring_Multimodal_CVPR_2025_paper.pdf) |
 
 ### 2.4 Hallucination & Robustness in Med-VQA
 
