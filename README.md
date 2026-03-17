@@ -86,6 +86,9 @@ Vision–Language Models for Medical Imaging
 | Prompting Medical LVLMs to Diagnose Pathologies by VQA | arXiv:2407.21368 | 2024/2025 | CXR | [Paper](https://arxiv.org/abs/2407.21368) |
 | GeMeX: A Large-Scale, Groundable, Explainable Med-VQA Benchmark | arXiv:2411.16778 | 2024 | Chest X-Ray | [Paper](https://arxiv.org/abs/2411.16778) |
 | SLAKE: Semantically-Labeled Knowledge-Enhanced Dataset for Med-VQA | IEEE ISBI | 2021 | Multi-modal | [Paper](https://arxiv.org/abs/2102.09542) |
+| Alignment, Mining and Fusion for Medical VQA | **CVPR** | 2025 | CXR/Multi-modal | [Paper](https://openaccess.thecvf.com/CVPR2025) |
+| BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models | **CVPR** | 2025 | Multi-modal | [Paper](https://openaccess.thecvf.com/CVPR2025) |
+| Bringing CLIP to the Clinic: Dynamic Soft Labels and Negation-Aware Learning | **CVPR** | 2025 | CXR | [Paper](https://openaccess.thecvf.com/CVPR2025) |
 
 ### 2.2 Open-Ended / Generative VQA
 
