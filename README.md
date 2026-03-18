@@ -35,7 +35,7 @@
 ---
 
 
-## 📄 Survey Papers
+##  Survey Papers
 
 | Title | Venue | Year |
 |-------|-------|------|
