@@ -78,7 +78,7 @@
 
 | Title | Venue | Year | Modality |
 |-------|-------|------|----------|
-| [R2GenGPT: Radiology Report Generation with Frozen Large Language Models](https://www.sciencedirect.com/science/article/pii/S2950162823000620) | Meta-Radiology, Vol.1(3):100033, Elsevier | 2023 | Chest X-ray |
+
 | [BioViL-T: Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing](https://openaccess.thecvf.com/content/CVPR2023/html/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.html) | IEEE/CVF CVPR 2023, pp.15016–15027 | 2023 | Chest X-ray |
 | [Enhancing Vision-Language Models for Medical Imaging (BrainMD + Vote-MI)](https://proceedings.neurips.cc/paper_files/paper/2024/file/b53513b83232116ae25f57a174a7c993-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS 2024 Datasets & Benchmarks Track | 2024 | Brain MRI |
 | [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html) | IEEE/CVF CVPR 2025, pp.5134–5143 | 2025 | Pathology WSI |
